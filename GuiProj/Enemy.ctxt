@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Enemy
+comment1.params=board\ row\ col
+comment1.target=Enemy(Board,\ int,\ int)
+comment2.params=
+comment2.target=boolean\ hunt()
+comment3.params=
+comment3.target=boolean\ chase()
+comment4.params=
+comment4.target=void\ check()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

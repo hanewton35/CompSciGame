@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MovObj2
+comment1.params=board\ row\ col
+comment1.target=MovObj2(Board2,\ int,\ int)
+comment2.params=
+comment2.target=boolean\ up()
+comment3.params=
+comment3.target=boolean\ right()
+comment4.params=
+comment4.target=boolean\ down()
+comment5.params=
+comment5.target=boolean\ left()
+numComments=6
